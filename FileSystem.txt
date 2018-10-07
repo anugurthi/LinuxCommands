@@ -1,0 +1,26 @@
+File System
+
+/ 
+
+1.bin -
+	It Essentials files for booting , shells (bash) ,commonly used commands (cp,rm) etc..
+2.boot
+	It holds he booting file like kernel files
+3.dev
+	It contains Devices files (cpu, disk) in linux everything is a file ex: cp,disk
+4.home
+	It contains user info and contains the work of user.
+5.etc
+	It contains all the configuration file of all the program
+6.lib
+	It contains kernel modules and shared devices info 
+7.media
+	Temporary mount point for cd ram , floppy disk ,zip drives
+8.mnt
+	Temporary mount point for file system
+9.opt
+	Optional directory (third party sofware like java,informatica, .net)
+10.root
+	Home dir of root user (admin)
+
+Lost + Found Dir

@@ -1,5 +1,5 @@
 1.ls -lh (File size we get)
-2.ls -l
+2.ls -l  (File Permissions)
 3.ls -F (Directories with / char )
 4.ls -r (In reverse order we get)
 5.ls -ls

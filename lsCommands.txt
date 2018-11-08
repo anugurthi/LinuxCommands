@@ -9,3 +9,5 @@
 9.ls -lsh (sort by size)
 10.ls -li (by inode number)
 11.ls -n (will get user id and group id)
+ 
+11/08/2018

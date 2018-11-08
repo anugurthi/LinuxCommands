@@ -77,3 +77,4 @@ rpm -qpR /mnt/iso/suse/i586/wget-1.10.2-78.i586.rpm
 
 rpm -qcf /usr/sbin/httpd
 
+11/08/2018

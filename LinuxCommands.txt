@@ -19,3 +19,5 @@
 15. To edit File
     nano (ctrl + o )  (ctrl + X)  / vim
 16. hostnamectl (version of operation system)
+
+11/08/2018
